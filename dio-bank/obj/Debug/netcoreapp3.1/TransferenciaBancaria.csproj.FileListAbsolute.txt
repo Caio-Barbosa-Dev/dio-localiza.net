@@ -1,0 +1,13 @@
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.exe
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.deps.json
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.runtimeconfig.json
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.runtimeconfig.dev.json
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.dll
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.pdb
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.csprojAssemblyReference.cache
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.AssemblyInfoInputs.cache
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.AssemblyInfo.cs
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.dll
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.pdb
+E:\Users\Caio\Desktop\Bootcamp-DIO\C#\Applications\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.genruntimeconfig.cache
